@@ -1,0 +1,152 @@
+﻿[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Open Game"]
+[Black "?"]
+[Result "*"]
+[ECO "C26"]
+[Annotator "xprimexinverse"]
+[PlyCount "26"]
+
+1. e4 e5 2. Nc3 Nf6 (2... Nc6 3. Bc4 Nf6 (3... Bc5 4. Qg4) 4. d3 Bb4 (4... Bc5
+5. Bg5 h6 (5... d6 6. Nd5) 6. Bh4) (4... Na5 5. Nge2) 5. Nge2 d5 6. exd5 Nxd5
+7. O-O) (2... Bc5 3. Bc4 Nf6 (3... Nc6 4. Qg4) 4. d3 Nc6 (4... d6 5. f4 Nc6 6.
+f5) 5. Bg5) (2... d6 {Black intends to play a Lion set-up.} 3. Bc4 {Not 3.f4
+which could transpose to the Fischer Defence in the King's Gambit.} Nf6 4. d3
+Nbd7 (4... Be7 5. f4) (4... Nc6 5. f4) (4... c6 5. f4) 5. f4 Be7 6. Nf3 O-O 7.
+O-O c6 8. a4) (2... Bb4 3. Bc4) (2... f5 $6 {A psuedo Latvian Gambit does not
+work against the Vienna Game.} 3. exf5 Nf6 (3... d5 $2 4. Qh5+ $18) 4. g4 $16)
+(2... c6) 3. g3 d5 (3... Bc5 4. Bg2 Nc6 5. Nge2 d6 (5... a6 6. h3 d6 7. d3) 6.
+Na4) (3... Nc6 4. Bg2 Bc5 5. Nge2) (3... Bb4 {This is the reversed Ruy Lopez
+line.} 4. Bg2) 4. exd5 Nxd5 5. Bg2 Nxc3 (5... Be6 6. Nf3 Nc6 7. O-O Be7 8. Re1)
+6. bxc3 Bd6 (6... Nc6 7. Nf3 Bc5 8. O-O O-O 9. Re1) (6... Bc5) 7. Nf3 O-O 8.
+O-O Nd7 (8... Nc6 9. Rb1 Rb8 10. d4 Bg4 11. h3) (8... c5 9. d3 Nc6 10. Nd2) 9.
+d4 exd4 10. cxd4 Nb6 11. Ng5 Be7 12. h4 h6 13. Ne4 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Sicilian"]
+[Black "?"]
+[Result "*"]
+[ECO "B31"]
+[Annotator "xprimexinverse"]
+[PlyCount "5"]
+
+1. e4 c5 2. Nf3 d6 (2... Nc6 3. Bd3) (2... e6 3. Bd3) (2... g6 3. Bd3) 3. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Caro-Kann"]
+[Black "?"]
+[Result "*"]
+[ECO "B10"]
+[Annotator "xprimexinverse"]
+[PlyCount "7"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "French"]
+[Black "?"]
+[Result "*"]
+[ECO "C06"]
+[Annotator "xprimexinverse"]
+[PlyCount "5"]
+
+1. e4 e6 2. d3 d5 3. Nd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Scandinavian"]
+[Black "?"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "xprimexinverse"]
+[PlyCount "6"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 (3... Qd6) (3... Qd8) (3... Qe5+) *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Alekhine's Defence"]
+[Black "?"]
+[Result "*"]
+[ECO "B04"]
+[PlyCount "2"]
+
+1. e4 Nf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Pirc Defence"]
+[Black "?"]
+[Result "*"]
+[ECO "B07"]
+[Annotator "xprimexinverse"]
+[PlyCount "5"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Modern Defence"]
+[Black "?"]
+[Result "*"]
+[ECO "B06"]
+[Annotator "xprimexinverse"]
+[PlyCount "6"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Nimzowitsch Defence"]
+[Black "?"]
+[Result "*"]
+[ECO "B00"]
+[PlyCount "2"]
+
+1. e4 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Owen Defence"]
+[Black "?"]
+[Result "*"]
+[ECO "B00"]
+[PlyCount "2"]
+
+1. e4 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "St. George Defence"]
+[Black "?"]
+[Result "*"]
+[ECO "B00"]
+[PlyCount "2"]
+
+1. e4 a6 *
+

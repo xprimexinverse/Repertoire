@@ -1,0 +1,140 @@
+﻿[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "1.e4"]
+[Black "?"]
+[Result "*"]
+[ECO "B00"]
+[Annotator "xprimexinverse"]
+[PlyCount "2"]
+
+1. e4 d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "1.d4"]
+[Black "?"]
+[Result "*"]
+[ECO "A40"]
+[Annotator "xprimexinverse"]
+[PlyCount "6"]
+
+1. d4 Nf6 2. c4 (2. Nf3 c5 3. e3 (3. c3 cxd4) (3. c4 cxd4 4. Nxd4 e5) (3. d5)
+3... cxd4) (2. Bg5) (2. Bf4) (2. e3) (2. f4) 2... c5 3. d5 (3. Nf3 cxd4 4. Nxd4
+e5) (3. Nc3) 3... e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "English Opening"]
+[Black "?"]
+[Result "*"]
+[ECO "A10"]
+[Annotator "xprimexinverse"]
+[PlyCount "2"]
+
+1. c4 b6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Reti"]
+[Black "?"]
+[Result "*"]
+[ECO "A04"]
+[PlyCount "1"]
+
+1. Nf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Bird's Opening"]
+[Black "?"]
+[Result "*"]
+[ECO "A02"]
+[PlyCount "1"]
+
+1. f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Nimzowitsch-Larsen"]
+[Black "?"]
+[Result "*"]
+[ECO "A01"]
+[Annotator "xprimexinverse"]
+[PlyCount "9"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 Bd6 5. Na3 (5. Ne2 a6 6. Bxc6 dxc6) (5.
+Be2 Be7 6. d3 d5) *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "1.g3"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "1"]
+
+1. g3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Sokolsky"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[Annotator "xprimexinverse"]
+[PlyCount "2"]
+
+1. b4 c6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "1.Nc3"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "1"]
+
+1. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "Grob"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "1"]
+
+1. g4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.05"]
+[Round "?"]
+[White "1.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "A00"]
+[PlyCount "1"]
+
+1. e3 *
+
