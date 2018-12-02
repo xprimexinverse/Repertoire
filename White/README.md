@@ -1,19 +1,13 @@
-The Shared Repertoire
+The Shared Repertoire (White)
 ==========
 
-This is the shared repertoire repository.
-
-Introduction
+Overview
 -----------
 
-There are two main folders. White and Black.
+The White repertoire is based on the following openings:
 
-Quick Start
------------
-
-Some tips on how to get started quickly.
-
-Feedback, Bugs, Suggestions
------------
-
-Please contact me at <graeme.walsh@centralbank.ie> or <graeme.walsh@hotmail.co.uk>
+* Queen's Gambit
+* King's Gambit
+* English Opening
+* Bird's Opening
+* Vienna Game
